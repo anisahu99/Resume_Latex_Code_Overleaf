@@ -99,7 +99,7 @@
 
 %----------HEADING----------
 \begin{center}
-    \textbf{\Huge \scshape Animesh Sahu} \faCamera \\ \vspace{1pt} % Added the photo icon
+    \textbf{\Huge \scshape Animesh Sahu} \\ \vspace{1pt} % Removed the photo icon
     \small +919415040870 $|$ \href{mailto:anisahu99@gmail.com}{\underline{anisahu99@gmail.com}} $|$ 
     \href{https://www.linkedin.com/in/animeshsahu1999/}{\underline{linkedin.com/in/animesh}} $|$
     \href{https://github.com/anisahu99/}{\underline{github.com/animesh}} $|$
