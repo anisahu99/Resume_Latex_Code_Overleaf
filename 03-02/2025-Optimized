@@ -1,0 +1,71 @@
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Animesh Sahu} \\ \vspace{1pt}
+    \small +919415040870 $|$ \href{mailto:anisahu99@gmail.com}{\underline{anisahu99@gmail.com}} $|$ 
+    \href{https://www.linkedin.com/in/animeshsahu1999/}{\underline{linkedin.com/in/animesh}} $|$
+    \href{https://github.com/anisahu99/}{\underline{github.com/animesh}}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Indian Institute of Information Technology, Bhopal}{Bhopal, Madhya Pradesh}
+      {Bachelor of Technology in Electronics and Communication Engineering | CGPA: 8.02}{Dec. 2020 -- May 2024}
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Work Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Software Engineer Intern}{Oct. 2024 -- Jan. 2025}
+      {\textbf{Appaxon Solutions}}{Remote (Delhi, India)}
+      \resumeItemListStart
+        \resumeItem{Developed RESTful APIs using C\#, .NET, and Entity Framework, following Clean Architecture principles.}
+        \resumeItem{Designed custom middleware for business logic and collaborated on GitHub for version control.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Full Stack Developer Intern}{July 2024}
+      {\textbf{Zoho}}{Chennai, India}
+      \resumeItemListStart
+        \resumeItem{Built RESTful APIs with Apache Tomcat and implemented Kafka Cluster synchronization.}
+        \resumeItem{Developed a gRPC-based client-server application for efficient file transfers.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+  \resumeSubHeadingListStart
+    \resumeProjectHeading
+      {\textbf{E-Commerce Platform} $|$ \emph{React, Node.js, PostgreSQL, MongoDB}}{\href{https://github.com/anisahu99/E-Commerce-Platform}{\underline{Github}}}
+      \resumeItemListStart
+        \resumeItem{Developed a full-stack e-commerce platform with JWT-based authentication, RESTful APIs, and role-based access control.}
+        \resumeItem{Managed database schemas and utilized global state management for improved performance.}
+      \resumeItemListEnd
+
+    \resumeProjectHeading
+      {\textbf{Store Locator on Map} $|$ \emph{JavaScript, Node.js, MongoDB, Mapbox}}{\href{https://github.com/anisahu99/Store_Locator_On_Map}{\underline{Github}}}
+      \resumeItemListStart
+        \resumeItem{Built a web app for geospatial data visualization using Mapbox and RESTful APIs with MongoDB.}
+        \resumeItem{Implemented form-based data entry with validation and asynchronous operations.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: C/C++, Java, Python, JavaScript, TypeScript, SQL} \\
+     \textbf{Frameworks}{: React, Node.js, .NET, Express.js, gRPC} \\
+     \textbf{Tools}{: Git, Docker, VS Code, Postman, Linux} \\
+     \textbf{Databases}{: MySQL, PostgreSQL, MongoDB} \\
+    }}
+ \end{itemize}
+
+%-----------ACHIEVEMENTS-----------
+\section{Achievements}
+\begin{itemize}
+    \item Ranked in top 6.6\% in LeetCode contests and solved 800+ DSA problems on LeetCode, GeeksforGeeks, and Codeforces.
+    \item Achieved top 4.24\% rank in JEE Mains Examination.
+\end{itemize}
